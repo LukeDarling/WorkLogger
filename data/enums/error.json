@@ -1,0 +1,6 @@
+{
+    "unknown":              "An unknown error has occurred.",
+    "permission-denied":    "You do not have permission to perform the requested action.",
+    "user-not-found":       "The specified user does not exist.",
+    "invalid-protocol":     "Invalid protocol used."
+}
